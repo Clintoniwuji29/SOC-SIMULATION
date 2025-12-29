@@ -1,5 +1,4 @@
 # SOC-SIMULATION
-This alert was triggered when a user attempted to access an external URL that is listed in the organization's blacklist or threat intelligence feeds. The firewall or proxy successfully blocked the outbound request, preventing the connection. 
 
 This alert was triggered when a user attempted to access an external URL that is listed in the organization's blacklist or threat intelligence feeds. The firewall or proxy successfully blocked the outbound request, preventing the connection. Note: The blacklist only covers known threats. It does not guarantee protection against new or unknown malicious domains.
 <img width="3140" height="1427" alt="Screenshot 2025-12-23 011857" src="https://github.com/user-attachments/assets/32720b66-9a17-4365-8826-4f9fc1759151" />
